@@ -2,3 +2,5 @@
 echo phpinf();
 
 die('test');
+
+test();
